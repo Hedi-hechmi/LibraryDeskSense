@@ -1,0 +1,17 @@
+# ESP-IDF
+esp32/build/
+esp32/managed_components/
+esp32/sdkconfig
+esp32/sdkconfig.old
+esp32/dependencies.lock
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Sensitive / OS files
+*.txt
+.DS_Store
+Thumbs.db
